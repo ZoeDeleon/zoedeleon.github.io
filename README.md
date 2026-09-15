@@ -4,4 +4,4 @@ Cultural Heritage and Data Archives Cultural heritage can include things like do
 
  For example, the Shelley Godwin Archive. It lets people look at digitized manuscripts, including handwritten pages from Mary Shelley's Frankenstein (https://shelleygodwinarchive.org). I think projects like this are useful because they allow more people to see and study materials that they may never have access to otherwise.
 
- 
+ (I am really struggling with the license) 
